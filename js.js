@@ -34,3 +34,10 @@ contact.addEventListener('click', (el)=>{
 });
 
 });
+
+
+
+  AOS.init({
+    duration: 1500
+  });
+
